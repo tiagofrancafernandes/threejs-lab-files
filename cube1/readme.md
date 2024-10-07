@@ -5,7 +5,7 @@
 
 ![cube1](https://sbedit.net/thumb/cf4e7e600eab5ab780aeb4a9f4098f794d3eda66)
 
-- [Demo Dist](./dist)
+- [Demo Dist](https://tiagofrancafernandes.github.io/threejs-lab-files/cube1/dist/)
 - [Embed](./embed.html)
 
 - Code: https://sbedit.net/cf4e7e600eab5ab780aeb4a9f4098f794d3eda66
